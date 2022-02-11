@@ -108,7 +108,7 @@ body {
     border-radius: 10px;
     width: 80%;
     padding: 25px;
-    margin: 30px auto;
+    margin: 20px auto 30px;
   }
   .price {
     display: flex;
@@ -157,7 +157,7 @@ body {
     background-color: var(--BrightBlue);
     border-radius: 10px;
     color: white;
-    box-shadow: hsl(223, 47%, 83%) 3px 12px 20px 5px;
+    box-shadow: hsl(223deg 47% 83%) 0px 15px 20px 1px;;
     transition: var(--MainTransition);
   }
   .payment:hover {
