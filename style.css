@@ -149,7 +149,7 @@ body {
     border: none;
     cursor: pointer;
     font-weight: 700;
-    font-size: 1rem;
+    font-size: 0.900rem;
   }
   .payment {
     padding: 15px;
@@ -165,7 +165,6 @@ body {
   .cancel {
     color: var(--DesaturatedBlue);
     transition: var(--MainTransition);
-    font-weight: 500 !important;
   }
   .cancel:hover {
     color: var(--DarkBlue);
