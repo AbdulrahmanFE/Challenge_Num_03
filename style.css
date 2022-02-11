@@ -116,7 +116,7 @@ body {
     align-items: center;
   }
   .price li {
-    line-height: 25px;
+    line-height: 27px;
   }
   .price li:first-child {
     color: var(--DarkBlue);
@@ -128,7 +128,7 @@ body {
   .annual-plan .change {
     color: var(--BrightBlue);
     font-weight: 700;
-    font-size: 0.9rem;
+    font-size: 0.88rem;
     transition: var(--MainTransition);
   }
   .annual-plan .change:hover {
@@ -150,7 +150,7 @@ body {
     border: none;
     cursor: pointer;
     font-weight: 700;
-    font-size: 0.867rem;
+    font-size: 0.88rem;
   }
   .payment {
     padding: 16px;
