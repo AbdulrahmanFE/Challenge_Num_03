@@ -108,11 +108,11 @@ body {
     border-radius: 10px;
     width: 80%;
     padding: 20px 25px;
-    margin: 25px auto 35px;
+    margin: 30px auto 35px;
   }
   .price {
     display: flex;
-    gap: 25px;
+    gap: 20px;
     align-items: center;
   }
   .price li {
@@ -128,7 +128,7 @@ body {
   .annual-plan .change {
     color: var(--BrightBlue);
     font-weight: 700;
-    font-size: 0.85rem;
+    font-size: 0.9rem;
     transition: var(--MainTransition);
   }
   .annual-plan .change:hover {
