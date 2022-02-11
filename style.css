@@ -71,7 +71,7 @@ body {
     flex-direction: column;
     max-width: 450px;
     background-color: white;
-    padding-bottom: 40px;
+    padding-bottom: 50px;
     border-radius: 20px;
   }
   @media (max-width: 480px) {
@@ -129,7 +129,7 @@ body {
     color: var(--BrightBlue);
     font-weight: 700;
     transition: var(--MainTransition);
-    font-size: 0.937rem;
+    font-size: 0.877rem;
   }
   .annual-plan .change:hover {
     text-decoration: none;
@@ -150,7 +150,7 @@ body {
     border: none;
     cursor: pointer;
     font-weight: 700;
-    font-size: 0.900rem;
+    font-size: 0.867rem;
   }
   .payment {
     padding: 15px;
