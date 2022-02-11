@@ -107,8 +107,8 @@ body {
     background-color: var(--VeryPaleBlue);
     border-radius: 10px;
     width: 80%;
-    padding: 20px;
-    margin: 25px auto;
+    padding: 25px;
+    margin: 30px auto;
   }
   .price {
     display: flex;
@@ -165,6 +165,7 @@ body {
   .cancel {
     color: var(--DesaturatedBlue);
     transition: var(--MainTransition);
+    font-weight: 500 !important;
   }
   .cancel:hover {
     color: var(--DarkBlue);
