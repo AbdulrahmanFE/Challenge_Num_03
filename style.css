@@ -92,7 +92,7 @@ body {
   .title {
     font-weight: 900;
     font-size: 1.75rem;
-    padding: 15px 0 ;
+    padding: 15px 0;
     color: var(--DarkBlue);
   }
   .description {
@@ -107,7 +107,7 @@ body {
     background-color: var(--VeryPaleBlue);
     border-radius: 10px;
     width: 80%;
-    padding: 20px;
+    padding: 23px;
     margin: 20px auto 35px;
   }
   .price {
