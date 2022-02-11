@@ -71,7 +71,7 @@ body {
     flex-direction: column;
     max-width: 450px;
     background-color: white;
-    padding-bottom: 55px;
+    padding-bottom: 50px;
     border-radius: 20px;
   }
   @media (max-width: 480px) {
