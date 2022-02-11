@@ -107,8 +107,8 @@ body {
     background-color: var(--VeryPaleBlue);
     border-radius: 10px;
     width: 80%;
-    padding: 22px 25px;
-    margin: 23px auto 35px;
+    padding: 20px 25px;
+    margin: 25px auto 35px;
   }
   .price {
     display: flex;
